@@ -1,16 +1,16 @@
 export default {
-    title: "kaifa",
+    title: "前端",
     description: "开发笔记",
-    base: "/kaifa",
+    base: "/front-end",
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     themeConfig: {
         socialLinks: [
-            { icon: "github", link: "https://github.com/feiniaojin/kaifa" },
+            { icon: "github", link: "https://github.com/flying-birds-do/front-end" },
         ],
         footer: {
-            copyright: "Copyright © 2020-present Qin Yujie",
+            copyright: "Copyright © 2020-present Bi Xiaoyu",
         },
         nav: [
             {

@@ -3,7 +3,7 @@ title: front-end
 layout: home
 hero:
   name: 跟我一起学前端
-  text: 从零开始的前端学习之路
+  text: 我的前端学习之路
   tagline: 脚踏实地是最快的捷径！
   actions:
     - theme: brand

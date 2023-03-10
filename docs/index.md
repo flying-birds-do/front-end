@@ -1,10 +1,10 @@
 ---
-title: 努力凑合的学习
+title: front-end
 layout: home
 hero:
-  name: web learn note
-  text: 或许 生来就是如此
-  tagline: 记录学习随笔
+  name: 跟我一起学前端
+  text: 从零开始的前端学习之路
+  tagline: 脚踏实地是最快的捷径！
   actions:
     - theme: brand
       text: 开始学习 →

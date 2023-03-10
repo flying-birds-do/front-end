@@ -1,21 +1,23 @@
 ---
-title: 开发笔记
+title: 努力凑合的学习
 layout: home
 hero:
-  name: 飞鸟的开发笔记
-  text: TODO
-  tagline: TODO
+  name: web learn note
+  text: 或许 生来就是如此
+  tagline: 记录学习随笔
   actions:
     - theme: brand
       text: 开始学习 →
       link: /0/0.0
     - theme: alt
       text: View on GitHub
-      link: https://github.com/feiniaojin/kaifa
+      link: https://github.com/flying-birds-do/web-learn-note
 
 features:
-  - title: 准确理解领域驱动设计概念
-    details: 正法难求，带你走出邪见，准确理解DDD概念
-  - title: 领域驱动设计落地实战
-    details: 带你走出DDD概念迷雾，真正落地DDD
+  - title: 了解基本概念 知其然 
+    details: 学习前端数据结构与算法
+  - title: 八股文
+    details: 懂得八股文对于面试的重要性
+  - title: vue3
+    details: vue3与vue2的区别
 ---

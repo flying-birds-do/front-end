@@ -1,10 +1,10 @@
 ---
-title: 努力凑合的学习
+title: front-end
 layout: home
 hero:
   name: 跟我一起学前端
-  text: 我的前端开启之路
-  tagline: 记录学习随笔
+  text: 我的前端学习之路
+  tagline: 脚踏实地是最快的捷径！
   actions:
     - theme: brand
       text: 开始学习 →

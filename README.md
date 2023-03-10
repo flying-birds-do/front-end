@@ -1,5 +1,5 @@
 
-# web-learn-note
+# 跟我一起学前端
 
 ## 项目介绍
 
@@ -32,5 +32,5 @@ $ yarn docs:dev
 工程启动后，访问链接为:
 
 ```shell
-http://localhost:5173/web-learn-note/
+http://localhost:5173/front-end/
 ```

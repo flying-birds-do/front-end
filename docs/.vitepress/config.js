@@ -53,6 +53,11 @@ export default {
 				collapsible: true,
 				items: [{ text: 'vue3 + vite + ts 项目', link: '/vue3/1.1' }],
       },
+        {
+				text: 'typeScript',
+				collapsible: true,
+				items: [{ text: '基础类型', link: '/typescript/1.1' },{ text: '变量声明', link: '/typescript/1.2' },{ text: '接口', link: '/typescript/1.3' },{ text: '类', link: '/typescript/1.4' }],
+      },
 			{
 				text: '数据结构',
 				collapsible: true,

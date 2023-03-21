@@ -51,7 +51,7 @@ export default {
       {
 				text: 'vue',
 				collapsible: true,
-				items: [{ text: 'vue3 + vite + ts 项目', link: '/vue3/1.1' }],
+				items: [{ text: 'vue3 项目实战斗', link: '/vue3/1.1' }],
       },
         {
 				text: 'typeScript',
